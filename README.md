@@ -4,8 +4,8 @@
 🛜 currently working on my own PLL layout and design<br>👨🏼‍🎓 graduated with Masters in Electrical and Computer Engineering<br>📚 Proficient in Analog Layout and UVM verification<br>
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SystemVerilog](https://raw.githubusercontent.com/file-icons/source/master/svg/SystemVerilog.svg" height="40" alt="javascript logo"  />
-  <img width="12") ![Magic Layout]
+![C++](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <img src="https://raw.githubusercontent.com/file-icons/source/master/svg/SystemVerilog.svg" height="40" alt="SystemVerilog logo" />
+ ![Magic Layout]
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=default12318&limit=5&theme=dark&combine_all_yearly_contributions=true)
